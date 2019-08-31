@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0FFD601D-66A2-D4C4-48F7-C997AFA69148}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TetrisScript/ControlBlock.cs">
+    <Files>
+      <File FileName="Assets/TetrisScript/ControlBlock.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
