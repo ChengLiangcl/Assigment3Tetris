@@ -5,9 +5,9 @@ using UnityEngine;
 public class ControlBlock : MonoBehaviour
 {
     // Start is called before the first frame update
-    private float previousTime;
-    public float fallTime = 0.9f;
-    public static int height = 20;
+    private float previousTime;//The prevoious Time
+    public float fallTime = 0.9f;//Set up the fall time
+    public static int height = 20;//Give the height of boundary
     public static int width = 10;
     public Vector3 rotation;
     public AudioSource direction;
