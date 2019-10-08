@@ -24,6 +24,9 @@ public class ControlBlock : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        /*
+         * if user press lef arrow, the blocks will be moved to left.
+        */
         if (Input.GetKeyDown(KeyCode.LeftArrow))
         {
             direction.Play();
